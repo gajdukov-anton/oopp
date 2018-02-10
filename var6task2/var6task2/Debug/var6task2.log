@@ -1,3 +1,4 @@
 ﻿  var6task2.cpp
-c:\users\антон\source\repos\var6task2\var6task2\var6task2.cpp(57): warning C4244: инициализация: преобразование "long" в "unsigned short", возможна потеря данных
-  var6task2.vcxproj -> C:\Users\Антон\source\repos\var6task2\Debug\var6task2.exe
+c:\users\антон\source\repos\oop\var6task2\var6task2\var6task2.cpp(55): warning C4244: инициализация: преобразование "long" в "unsigned short", возможна потеря данных
+c:\users\антон\source\repos\oop\var6task2\var6task2\var6task2.cpp(68): warning C4101: err: неиспользованная локальная переменная
+  var6task2.vcxproj -> C:\Users\Антон\source\repos\oop\var6task2\Debug\var6task2.exe
