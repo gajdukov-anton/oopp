@@ -1,5 +1,0 @@
-﻿  var2tas3.cpp
-c:\users\антон\source\repos\lab1\var2tas3\var2tas3\var2tas3.cpp(32): warning C4101: elem: неиспользованная локальная переменная
-c:\users\антон\source\repos\lab1\var2tas3\var2tas3\var2tas3.cpp(31): warning C4101: buf: неиспользованная локальная переменная
-c:\users\антон\source\repos\lab1\var2tas3\var2tas3\var2tas3.cpp(109): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-  var2tas3.vcxproj -> C:\Users\Антон\source\repos\lab1\var2tas3\Debug\var2tas3.exe

@@ -1,0 +1,4 @@
+﻿  var2tas3.cpp
+c:\users\антон\source\repos\oop\var2tas3\var2tas3\var2tas3.cpp(35): warning C4101: elem: неиспользованная локальная переменная
+c:\users\антон\source\repos\oop\var2tas3\var2tas3\var2tas3.cpp(34): warning C4101: buf: неиспользованная локальная переменная
+  var2tas3.vcxproj -> C:\Users\Антон\source\repos\oop\var2tas3\Debug\var2tas3.exe
