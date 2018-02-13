@@ -1,0 +1,4 @@
+﻿  task3.cpp
+c:\users\антон\source\repos\oop\task3lab0\task3\task3.cpp(58): warning C4101: err: неиспользованная локальная переменная
+c:\users\антон\source\repos\oop\task3lab0\task3\task3.cpp(63): warning C4101: err: неиспользованная локальная переменная
+  task3.vcxproj -> C:\Users\Антон\source\repos\oop\task3lab0\Debug\task3.exe
