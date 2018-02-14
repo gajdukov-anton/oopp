@@ -1,2 +1,30 @@
-﻿  var6task2.cpp
-  var6task2.vcxproj -> C:\Users\Антон\source\repos\oop\variant6task2\Debug\var6task2.exe
+﻿  stdafx.cpp
+  var6task2.cpp
+  var6task2.vcxproj -> C:\Users\Антон\source\repos\task2variant6\Debug\var6task2.exe
+  Program shows difference in the order of the binary bits in the given number, please enter number at command line.
+  Argument "notANumber is not a number.
+  Argument " is not a number.
+  Argumnet is not included in the valid range from 0 to 255.
+  Argumnet is not included in the valid range from 0 to 255.
+  Сравнение файлов output.txt и 6-96.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output.txt и 140-49.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output.txt и 16-8.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output.txt и 255-255.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output.txt и 0-0.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output.txt и 254-127.TXT
+  FC: различия не найдены
+  
+  Сравнение файлов output.txt и 128-1.TXT
+  FC: различия не найдены
+  
+  Program testing succeeded :-)
